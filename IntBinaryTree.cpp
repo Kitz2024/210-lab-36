@@ -1,6 +1,7 @@
 // Implementation file for the IntBinaryTree class
 #include <iostream>
 #include "IntBinaryTree.h"
+#include <iostream>
 #include <string>
 using namespace std;
 
