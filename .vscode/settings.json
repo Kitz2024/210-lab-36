@@ -1,11 +1,6 @@
 {
     "files.associations": {
-        "iostream": "cpp",
-        "xstring": "cpp",
-        "xutility": "cpp",
-        "system_error": "cpp",
-        "type_traits": "cpp",
-        "xlocmon": "cpp",
-        "xtr1common": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp"
     }
 }
