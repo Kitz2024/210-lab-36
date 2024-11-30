@@ -1,5 +1,5 @@
 // Kit Pollinger
-//  210 - Lab - 38 | BST (Binary Tree)
+//  210 - Lab - 36 | BST (Binary Tree)
 
 #include <iostream>
 #include "IntBinaryTree.h"
@@ -30,10 +30,10 @@ IntBinaryTree tree;
     while (userChoice != 5) // Menu-Drive
     {
         cout << "\nMenu\n";
-        cout << "[1] Add Record";
-        cout << "[2] Delete Record";
-        cout << "[3] Search Record";
-        cout << "[4] Modify Record";
+        cout << "[1] Add Record\n";
+        cout << "[2] Delete Record\n";
+        cout << "[3] Search Record\n";
+        cout << "[4] Modify Record\n";
         cout << "[5] Exit\n";
         cout << "[6] Display Tree In-Order\n";
         cout << "[7] Display Tree Pre-Order\n";
@@ -96,7 +96,6 @@ IntBinaryTree tree;
         case 5:
         {
             cout << "Exiting Program ";
-            tree.displayPostOrder();
             break;
         }
         case 6:
