@@ -1,6 +1,5 @@
 // Kit Pollinger
 //  210 - Lab - 36 | BST (Binary Tree)
-
 #include <iostream>
 #include "IntBinaryTree.h"
 #include <fstream>

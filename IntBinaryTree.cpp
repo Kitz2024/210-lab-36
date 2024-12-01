@@ -3,7 +3,6 @@
 #include "IntBinaryTree.h"
 #include <iostream>
 #include <string>
-#include <fstream>
 using namespace std;
 
 // insert accepts a TreeNode pointer and a pointer to a node.
